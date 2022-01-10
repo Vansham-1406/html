@@ -1,0 +1,23 @@
+a{
+    text-decoration: none;
+    color: red;
+}
+h1,h3{
+    font-size: 45px;
+    color: teal;
+}
+li{
+    font-family: cursive;
+    text-transform: uppercase;
+}
+body{
+    background-color: salmon;
+}
+a:hover{
+    color:springgreen;
+    font-size: 35px;
+}
+p{
+    font-family: sans-serif;
+    color: thistle;
+}

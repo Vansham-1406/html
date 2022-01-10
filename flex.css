@@ -1,0 +1,45 @@
+#outerdiv{
+    background-color: lightskyblue;
+    height: 600px;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
+
+.innerdiv{
+height: 200px;
+width: 200px;
+
+}
+#div1{
+    background-color: limegreen;
+}
+#div2{
+    background-color: magenta;
+}
+#div3{
+    background-color: orange;
+}
+#div4{
+    background-color: red;
+}
+#div5{
+    background-color: pink;
+}
+#div6{
+    background-color: ;
+}
+#div7{
+    background-color: ;
+}
+#div8{
+    background-color: ;
+}
+#div9{
+    background-color: ;
+}
+#div10{
+    background-color: ;
+}

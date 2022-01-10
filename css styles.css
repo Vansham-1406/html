@@ -1,0 +1,18 @@
+/* main content */
+main{
+    display:inline-block;
+    width : 70%;
+}
+aside{
+    display:inline-block;
+    vertical-align: top;
+    width: 20%;
+    
+
+}
+
+.asideclass{
+    border: 3px;
+    border-color: rgb(155, 128, 128);
+    border-style: solid;
+}

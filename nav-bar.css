@@ -1,0 +1,225 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#menu ul{
+    list-style: none;
+
+}
+#menu ul li {
+    background-color: black;
+    border: 1px solid white;
+    width: 267.5px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    float: left;
+    position: relative;
+}
+#menu ul li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    font-size: 25px;
+}
+#menu ul li a:hover{
+    background-color: green;
+}
+#menu ul ul{
+    position: absolute;
+    display:none ;
+}
+#menu ul li:hover >ul {
+    display: block;
+}
+#menu ul ul li a {
+    
+}
+
+/* container box */
+#container{
+    /* position: relative; */
+    text-align: center;
+    color: white;
+}    
+/* Images */
+#Monument1{
+    width: 100vw;
+    height: 75vh;   
+}
+/* image 1 text */
+#bottom{
+    /* position: absolute; */
+    bottom: 50px;
+    left: 50px;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: black;
+
+}
+/* opening para */
+#op-para{
+    font-family: Roboto;
+    font-size: 20px;
+    line-height: 1.71;
+    text-align: justify;
+    color: #43474c;
+    padding-right: 0;
+    width: 90vw;
+    margin-top: 3%;
+    font-weight: 500;
+    margin-bottom: 6%;
+}
+/* footer */
+#footer{
+    background-color: black;
+    width: 100vw;
+    height: 200px;
+    margin-top: 10%;
+    color: white;
+    padding-top: 5%;
+    font-size: 20px;
+    font-weight: 600;
+}
+/* social media icons */
+#insta{
+    margin-right: 20px;
+}
+#fb{
+    margin-right: 20px;
+}
+#fb:hover{
+    width: 60px;
+    height: 60px;
+    border-radius: 3px;
+}
+#insta:hover{
+    width: 60px;
+    height: 60px;
+    border-radius: 3px;
+}
+#Contact1{
+    margin-top: 20px;
+    font-size: 15px;
+}
+#twitter:hover{
+    width: 60px;
+    height: 60px;
+    border-radius: 3px;
+}
+/* header1 */
+#header1{
+font-family: Oswald;
+font-size: 50px;
+text-align: center;
+color: #43474c;
+margin-bottom: 30px;
+font-weight: bold;
+margin-top: 50px;
+}
+
+/* openning-para1 */
+#op-para1{
+    font-family: Roboto;
+    font-size: 20px;
+    line-height: 1.71;
+    text-align: justify;
+    color: #43474c;
+    padding-right: 0;
+    width: 90vw;
+    /* margin-top: 3%; */
+    font-weight: 500;
+    padding-bottom: 2%;
+}
+/* container1 */
+#container1{
+    display: flex;
+    height: auto;
+    width: auto;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+.Heritage{
+    height: 200px;
+    width: auto;
+    margin: 10px 20px;
+}
+#Mural_painting{
+margin-left: 12%;
+
+}
+/* view-more */
+#view-more{
+
+}
+#header2{
+    font-family: Oswald;
+    font-size: 50px;
+    text-align: center;
+    color: #43474c;
+    margin-bottom: 30px;
+    font-weight: bold;
+    margin-top: 50px;
+    }
+/* container2 */
+#container2{
+    display: flex;
+    height: auto;
+    width: auto;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+.State{
+    height: 400px;
+    width: 400px;
+    margin: 10px 20px;
+}
+#karnataka_monument{
+    margin-left: 12%;
+}
+/* container3 */
+#container3{
+    display: flex;
+    height: auto;
+    width: auto;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+.TouristAttarction{
+    height: 300px;
+    width: 300px;
+    margin: 10px 20px;
+}
+#Beach{
+    margin-left: 12%;
+}
+/* openning para 2 */
+#op-para2{
+    font-family: Roboto;
+    font-size: 20px;
+    line-height: 1.71;
+    text-align: justify;
+    color: #43474c;
+    padding-right: 0;
+    width: 90vw;
+    margin-top: 3%;
+    font-weight: 500;
+    margin-bottom: 3%;
+}
+#view-more{
+    margin-bottom: 4.5%;
+}
+/* openning para 3 */
+#op-para3{
+    font-family: Roboto;
+    font-size: 20px;
+    line-height: 1.71;
+    text-align: justify;
+    color: #43474c;
+    padding-right: 0;
+    width: 90vw;
+    margin-top: 3%;
+    font-weight: 500;
+    margin-bottom: 3%;
+}

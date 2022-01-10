@@ -1,0 +1,79 @@
+/* aside */
+aside{
+    display: inline-block;
+    /* position: relative; */
+    
+}
+/* main */
+main{
+    display: inline-block;
+    width: 50%;
+    vertical-align: top;
+    border:5px solid grey;
+    padding: 5px;
+    text-align: justify;
+    background-color: lightpink;
+}
+.header1{
+    background-image: url(https://www.pngkit.com/png/detail/293-2930849_header-bg-bg-header-png.png);
+    width: 100vw;
+    height: auto;
+
+}
+span{
+    font-size: 16px;
+    vertical-align: middle;
+    text-align: right;
+    
+}
+#comment{
+    display: inline-block;
+    float: inline-end;
+}
+#search{
+    height: 450px;
+    border-right:5px solid lightgrey;
+    border-left:5px solid lightgrey;
+    
+    margin-left: -420px;
+    padding-left: 30px;
+    
+    width: 250px;  
+}
+#search input{
+height: 50px;
+width: 240px;
+/* border-bottom:5px groove grey; */
+#search
+}
+#image{
+    padding-top: 75px;
+}
+#image1{
+    padding-top:50px;
+}
+#Email{
+    color: grey;
+}
+#search .registration{
+    height: 20px;
+    width: 150px;
+}
+#search #Username{
+    margin-bottom: 20px;
+}
+
+#search #email{
+    margin-bottom: 20px;
+}
+#search #Subscribe{
+    height: 20px;
+    width: 100px;
+    margin-top: 20px;
+}
+#search #comment1{
+    width: 350px;
+    height: 100px;
+    vertical-align: text-top;
+    margin-bottom: 20px;
+}
